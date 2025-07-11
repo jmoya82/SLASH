@@ -1,4 +1,4 @@
-# SLASH  VRT (V80 RunTime) API
+# SLASH  VRT (V80 RunTime) API - Test
 
 This repository contains SLASH, a SmartNIC platform for Alveo V80. SLASH consists of several components:
 - card management functionality that layers on top of [AVED](https://github.com/Xilinx/AVED)
